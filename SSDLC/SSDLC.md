@@ -166,7 +166,7 @@ CVSS Calculator
 Software without security will be attacked and Organization will fail
 
 ## Secure SDLC (SSDLC)
-![Pasted image 20241002122448.png](Pasted image 20241002122448.png)
+![Pasted image 20241002122448.png](SSDLC.png)
 
 Before the SSDLC Software used to be security tested after just before the Production 
 and that costs very much money effort and time for example 
@@ -405,7 +405,7 @@ Framework
 			- Developer For Development Is Different to One For Testing   and Deployment 
 - **Defense In Depth (Layered Defense)**
 	- To make layers of defense mechanisms Vulnerability don't lead to the total compromise of the system
-	- ![Pasted image 20231023130131.png](Pasted image 20231023130131.png)
+	- ![Pasted image 20231023130131.png](20231023130131.png)
 	- Examples 
 		- For SQLI Attacks Prevention 
 			- Use Input Validation
