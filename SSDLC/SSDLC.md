@@ -166,7 +166,7 @@ CVSS Calculator
 Software without security will be attacked and Organization will fail
 
 ## Secure SDLC (SSDLC)
-![[Pasted image 20241002122448.png]]
+![Pasted image 20241002122448.png](Pasted image 20241002122448.png)
 
 Before the SSDLC Software used to be security tested after just before the Production 
 and that costs very much money effort and time for example 
@@ -405,7 +405,7 @@ Framework
 			- Developer For Development Is Different to One For Testing   and Deployment 
 - **Defense In Depth (Layered Defense)**
 	- To make layers of defense mechanisms Vulnerability don't lead to the total compromise of the system
-	- ![[Pasted image 20231023130131.png]]
+	- ![Pasted image 20231023130131.png](Pasted image 20231023130131.png)
 	- Examples 
 		- For SQLI Attacks Prevention 
 			- Use Input Validation
@@ -578,7 +578,7 @@ Framework
 | **Discoverability**<br>How easily the vulnerability<br>be found?        | - Very hard or impossible.<br> - Requires source code, administrative access.              | - Can figure it out by:<br>   - Guessing.<br>   - Monitoring network traces. | - Information is visible.                              |
 
 This layout uses bullet points to itemize the attributes and characteristics associated with each risk level in the DREAD model, enhancing readability similar to the image.
-			 ![[Pasted image 20231026144934.png]]
+			 ![Pasted image 20231026144934.png](Pasted image 20231026144934.png)
 4. Documentation and Validation
 	- Reason 
 		 to Identify
@@ -590,7 +590,7 @@ This layout uses bullet points to itemize the attributes and characteristics ass
 		- Text Documentation: Full Details about Threats
 		- Use Fixed Template
 		- Example
-		  ![[Pasted image 20231026150103.png]]
+		  ![Pasted image 20231026150103.png](Pasted image 20231026150103.png)
 	- **Modeling Validation** Based on Documentation
 		- The application architecture is accurate and up-to-date. 
 		- The threats are identified across each trust boundary and for data element.
