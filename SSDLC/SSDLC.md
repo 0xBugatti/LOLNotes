@@ -580,18 +580,22 @@ Framework
 This layout uses bullet points to itemize the attributes and characteristics associated with each risk level in the DREAD model, enhancing readability similar to the image.
 			 ![Pasted image 20231026144934.png](Pasted image 20231026144934.png)
 4. Documentation and Validation
-	- Reason 
+	
+ 	- Reason 
 		 to Identify
 		 - our necessary needs to be executed in the next time  
 		 - Faults and Modification to  In the Next time
 		 - Current threats and Validating them and update our threat model
-	- Method
+	
+ 	- Method
 		- Diagram : Visibility to the Context of the threats
 		- Text Documentation: Full Details about Threats
 		- Use Fixed Template
 		- Example
 		  ![Pasted image 20231026150103.png](Pasted image 20231026150103.png)
-	- **Modeling Validation** Based on Documentation
+
+ 	- **Modeling Validation** Based on Documentation
+ 
 		- The application architecture is accurate and up-to-date. 
 		- The threats are identified across each trust boundary and for data element.
 		- Each threat has been explicitly considered and controls for mitigation, acceptance or avoidance have been identified and mapped to the threats they address.
