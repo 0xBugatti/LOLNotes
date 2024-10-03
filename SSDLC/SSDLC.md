@@ -251,7 +251,7 @@ Framework
 				     How and  will the Software Functionalities Resume Critical and Essential and How Long Will take to recover afterdown time based on their classification	
 			- Measurement 
 				- Nines (Software Availability should be Higher than 5 nines)
-					![[five-nines1.avif]]
+					![five-nines1.avif](five-nines1.avif)
 				- Load
 					Load Of Concurrent Session
 					N of Users per Point of Time
@@ -582,10 +582,10 @@ This layout uses bullet points to itemize the attributes and characteristics ass
 4. Documentation and Validation
 	
    - Reason 
-		 to Identify
-		 - our necessary needs to be executed in the next time  
-		 - Faults and Modification to  In the Next time
-		 - Current threats and Validating them and update our threat model
+	 to Identify
+       - our necessary needs to be executed in the next time  
+       - Faults and Modification to  In the Next time
+       - Current threats and Validating them and update our threat model
 	
    - Method
 		- Diagram : Visibility to the Context of the threats
