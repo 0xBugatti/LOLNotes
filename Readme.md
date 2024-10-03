@@ -13,4 +13,4 @@ Red Teaming/Deffensive Security Assesment Operations
 - SSDLC:
 Detailed  Documentation and Inspection of  The Application Security Process that Covers all the Stages to produce 
 Secure System not only Another Useless OWASP TOP-10 Notes 
-![Thumb](Thumbs/SSDLC.png)
+![Thumb](Thumbs/Thumb-SSDLC.png)
