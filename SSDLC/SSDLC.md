@@ -578,7 +578,7 @@ Framework
 | **Discoverability**<br>How easily the vulnerability<br>be found?        | - Very hard or impossible.<br> - Requires source code, administrative access.              | - Can figure it out by:<br>   - Guessing.<br>   - Monitoring network traces. | - Information is visible.                              |
 
 This layout uses bullet points to itemize the attributes and characteristics associated with each risk level in the DREAD model, enhancing readability similar to the image.
-			 ![Pasted image 20231026144934.png](Pasted image 20231026144934.png)
+			 ![Pasted image 20231026144934.png](20231026144934.png)
 4. Documentation and Validation
 	
    - Reason 
@@ -592,7 +592,7 @@ This layout uses bullet points to itemize the attributes and characteristics ass
 		- Text Documentation: Full Details about Threats
 		- Use Fixed Template
 		- Example
-		  ![Pasted image 20231026150103.png](Pasted image 20231026150103.png)
+		  ![Pasted image 20231026150103.png](20231026150103.png)
 
    - **Modeling Validation** Based on Documentation
  
