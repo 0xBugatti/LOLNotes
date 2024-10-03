@@ -3,7 +3,7 @@
 
 
 ## SDLC
-![[66c63d6ea5782308ff73fda5_65a93e3af15a1c63968a12d6_sdlc_205_20phases.png]]
+![66c63d6ea5782308ff73fda5_65a93e3af15a1c63968a12d6_sdlc_205_20phases.png](66c63d6ea5782308ff73fda5_65a93e3af15a1c63968a12d6_sdlc_205_20phases.png)
 1. Requirements :
 	Stakeholders (Business Man) put the Line and Idea of his Application (Requirements)
 	Examples:
