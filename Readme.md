@@ -2,7 +2,7 @@
 - WindowsAuthMap :
 Comprehensive Analysis and Decision Flow for Windows Authentication Methods Covering On-Prem, Hybrid, and Cloud 
 Scenarios with Failure Handling and Security Insights.
-![Thumb](Thumbs/Thumb-Wauth.png)
+![Thumb](Thumbs/Wauth.png)
 
 - Nscan :
 Network scanning methodology takes your knowledge anove the basics to extend you to the next level (Lateral Move,AD components 
